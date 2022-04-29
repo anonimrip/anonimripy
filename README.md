@@ -1,5 +1,5 @@
 ![picture alt]( https://media.giphy.com/media/HoIrPgqTBiB2XvVEf7/giphy.gif "Title is optional")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenrip&label=Profile%20views&color=0e75b6&style=flat" alt="erenrip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonimrip&label=Profile%20views&color=0e75b6&style=flat" alt="erenrip" /> </p>
 
 
 
@@ -8,25 +8,23 @@
 - 🌱 I’m currently learning  i am learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Dıscord: Er3n#3368
-
-- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com)    
-
+- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com) 
 
 
+Software Language| The Game Engine | Operating system
+| :---: | :---: | :---:
+Arduino (c++)  | Unreal Engine 4 and higher | Windows 10 Pro
+C# Console  | BluePrint | Windows 11
+C# OBP      |           | Kali Linux
+Python      |           | Pardus
+Html-Css    |           |
+
+   
 
 
-<!---
-ErenRip/ErenRip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonimrip&hide=javascript,css,scss,html&theme=tokyonight)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenrip&show_icons=true&locale=en&layout=compact" alt="erenrip" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenrip&show_icons=true&locale=en" alt="erenrip" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonimrip&theme=github_dark&show_icons=true)
 
 
-
-
-
-https://github.com/TheSpeedX/TBomb
